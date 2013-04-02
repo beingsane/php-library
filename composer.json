@@ -1,0 +1,16 @@
+{
+    "name": "jlleblanc/php-library",
+    "description": "A PHP library I'm developing",
+    "require": {
+        "slim/slim": "1.x",
+        "dflydev/markdown": "1.x"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joe LeBlanc",
+            "email": "joe@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
